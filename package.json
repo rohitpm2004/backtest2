@@ -1,0 +1,13 @@
+{
+  "name": "task-api-50marks",
+  "version": "1.0.0",
+  "description": "Task Management API with basic endpoints in single file",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongoose": "^7.0.3"
+  }
+}
